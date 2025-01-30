@@ -2,15 +2,14 @@
 
 This is a tracking application.
 
-The user's location is tracked and a marker is placed on the map every 100 meters of location change.
-is added.
-• Location tracking continues in the foreground and background for as long as possible.
-• Markers should be on the map, when the markers are clicked, the address information of the relevant location will be displayed.
+*The user's location is tracked and a marker is placed on the map every 100 meters of location change.
+* Location tracking continues in the foreground and background for as long as possible.
+* Markers should be on the map, when the markers are clicked, the address information of the relevant location will be displayed.
 is displayed.
-• User can stop or start tracking their location.
-• You can reset the route, and unless the route is reset, the current route will be lost when the application is reopened.
+* User can stop or start tracking their location.
+* You can reset the route, and unless the route is reset, the current route will be lost when the application is reopened.
 can be viewed.
-• Google Maps API is used.
+* Google Maps API is used.
 
 
 ## Getting Started
